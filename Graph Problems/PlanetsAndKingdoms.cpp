@@ -60,5 +60,7 @@ int main(){
         cout<<kingdoms[it]<<" ";
     }
  
- 
+    
     return 0;
+
+}
